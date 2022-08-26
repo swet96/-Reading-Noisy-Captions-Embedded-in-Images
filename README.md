@@ -1,12 +1,10 @@
-# -Reading-Noisy-Captions-Embedded-in-Images
+# Reading-Noisy-Captions-Embedded-in-Images
 
 The task is to predict the text embedded into the image (irrespective of the background image itself
 
 Reproduce:
 
-Clone repo: \
-`git clone https://github.com/swainsubrat/urban-fiesta.git` \
-`cd urban-fiesta`
+Clone repo
 
 Install Dependencies(python>=3.8 required): \
 `pip install -r requirements.txt`
@@ -22,7 +20,7 @@ put the train_data folder inside the data folder.
 
 Hence, the folder structure would be:
 
-urban-fiesta/
+Reading-Noisy-Captions-Embedded-in-Images/
   - data/ \
        (this is inside the data folder)train_data/
   -  train.py
